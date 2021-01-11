@@ -1,0 +1,16 @@
+<i class="fas fa-search"></i>
+<i class="far fa-heart"></i>
+<i class="fas fa-cart-arrow-down"></i>
+<i class="fas fa-bars"></i>
+
+
+
+<i class="fas fa-play"></i>
+<i class="fas fa-times"></i>
+<i class="fas fa-arrow-up"></i>
+
+
+<i class="fab fa-facebook-f"></i>
+<i class="fab fa-twitter"></i>
+<i class="fas fa-globe"></i>
+<i class="fab fa-behance"></i>
